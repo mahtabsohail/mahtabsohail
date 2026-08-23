@@ -10,7 +10,7 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 <img src="https://img.shields.io/github/followers/mahtabsohail?label=Followers&style=for-the-badge">
 </a>
 
-<a href="https://leetcode.com/u/mahtab_alam_/">
+<a href="https://leetcode.com/u/mahtab-alam/">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode">
 </a>
 
@@ -172,7 +172,7 @@ Collection of Java programs covering
 
 💻 **GitHub:** https://github.com/mahtabsohail
 
-🧩 **LeetCode:** https://leetcode.com/u/mahtab_alam_/
+🧩 **LeetCode:** https://leetcode.com/u/mahtab-alam/
 
 ---
 
