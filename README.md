@@ -149,7 +149,7 @@ Collection of Java programs covering
 <p align="center">
 
 <a href="https://leetcode.com/u/mahtab_alam_/">
-<img src="https://img.shields.io/badge/LeetCode-mahtab__alam__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-mahtab-alam-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mahtabsohail">
