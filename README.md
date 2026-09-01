@@ -33,7 +33,6 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 - 🚀 Experienced with **Java, JSP, Servlets, JDBC, MySQL, Git, and Linux**
 - 🌱 Currently improving **Data Structures & Algorithms** and **System Design**
 - 🛒 Built an **E-Commerce Web Application** using JSP, Servlets, JDBC, and MySQL
-- 🏥 Worked on **Hospital Resource Management** project
 - 🐧 Comfortable working in Linux environments
 - 📚 Love solving coding problems and building scalable applications
 
@@ -68,22 +67,28 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 - Java
 - JSP
 - Servlets
-- JDBC
 - MySQL
+- JDBC
 - MVC Architecture
-- Authentication
+- Authentication & Authorization
 - Email Verification
 - Product Management
 - Admin Dashboard
 
 ---
 
-## 🏥 Hospital Resource Management
+## 📚 ShelfWise – Library Management System
 
-- Machine Learning
-- Data Analytics
-- Resource Prediction
-- Hospital Dashboard
+- Java
+- JSP
+- Servlets
+- MySQL
+- JDBC
+- MVC Architecture
+- Authentication & Authorization
+- Book Issue & Return
+- Borrow Request & Approval
+- Transaction Management
 
 ---
 
@@ -99,47 +104,10 @@ A Linux Shell built in C supporting:
 
 ---
 
-## ☕ Java Programs
-
-Collection of Java programs covering
-
-- OOP
-- Collections
-- Exception Handling
-- JDBC
-- File Handling
-- Multithreading
-- ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahtabsohail&show_icons=true&theme=default&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabsohail&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mahtabsohail&theme=default&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahtabsohail&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahtabsohail&theme=flat&margin-w=10&no-frame=true&row=1"/>
 </p>
 
 ---
