@@ -62,7 +62,7 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 
 # 🚀 Featured Projects
 
-## 🛒 E-Commerce Web Application
+## 🛒 NexoMart - E-Commerce Web Application
 
 - Java
 - JSP
@@ -92,9 +92,7 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 
 ---
 
-## 🖥 AlphaShell
-
-A Linux Shell built in C supporting:
+## 🖥 AlphaShell - A Linux Shell
 
 - Command execution
 - Background process
