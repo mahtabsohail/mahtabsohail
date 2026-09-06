@@ -77,7 +77,7 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 
 ---
 
-## 📚 ShelfWise – Library Management System
+## 📚 ShelfWise - Library Management System
 
 - Java
 - JSP
