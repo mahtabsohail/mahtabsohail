@@ -92,7 +92,7 @@ Backend Developer | Java Enthusiast | B.Tech CSE Graduate
 
 ---
 
-## 🖥 AlphaShell - A Linux Shell
+## 🖥 AlphaShell - A Custom Unix Shell
 
 - Command execution
 - Background process
